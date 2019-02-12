@@ -1,3 +1,6 @@
+# This branch is no longer used
+
+---
 
 # Specification 'Web of Things (WoT) Architecture'
 
